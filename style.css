@@ -1,0 +1,14 @@
+
+body {
+    background-size: cover;
+    background-attachment: fixed;
+  }
+  
+  body > * {
+    border-radius: 5px;
+    padding: 10px;
+  }
+
+  #content{
+    background-color: white;
+  }
